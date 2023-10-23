@@ -1,3 +1,3 @@
 ### Assignment
 ## Screenshot
-![screenshot](./img/flower.jpg)
+![screenshot](./img/screen.png)
